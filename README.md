@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad
 
-<!--
-**Ahmad-global/Ahmad-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer | Freelancer  
+🌍 Open to international projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am passionate about building modern, responsive web applications.  
+Currently improving my skills and working on real-world projects.
+
+---
+
+## 🛠 Skills
+- HTML / CSS / JavaScript
+- React
+- Git & GitHub
+- Responsive Design
+
+---
+
+## 📂 Projects
+
+🔹 [Todo App](https://ahmad-global.github.io/Todo-app/)  
+🔹 [Portfolio Website](https://ahmad-global.github.io/portfolio/)
+
+---
+
+## 📫 Contact Me
+📧 Email: ahmad@example.com  
+🔗 GitHub: https://github.com/Ahmad-global  
+
+---
+
+⭐ Always learning. Always building.
