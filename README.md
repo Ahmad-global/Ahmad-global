@@ -27,7 +27,7 @@ Currently improving my skills and working on real-world projects.
 ---
 
 ## 📫 Contact Me
-📧 Email: ahmad@example.com  
+📧 Email: ahmdt838@gmail.com 
 🔗 GitHub: https://github.com/Ahmad-global  
 
 ---
